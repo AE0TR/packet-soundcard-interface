@@ -14,8 +14,8 @@ soundcards.
 Orient the board so that the screw terminals are on the left, terminal #1 is at the top and terminal #7
 is on the bottom.
 
-1. Mic+ (to radio)
 1. Left channel (from sound card)
+1.  Mic+ (to radio)
 
 1. Mic (to sound card)
 1. Spkr+ (from radio)
